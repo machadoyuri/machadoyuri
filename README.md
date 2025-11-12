@@ -12,7 +12,7 @@ Atualmente focado em **React**, **Tailwind CSS** e **Java** ☕.
 
 ## ⚙️ Tech Stack
 
-<div align="center">
+<div align="center" height= 20>
 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
