@@ -56,7 +56,7 @@ Atualmente focado em **React**, **Tailwind CSS** e **Java** ☕.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/SEU-LINK)
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:SEUEMAIL@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:yurimsdarosa@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfólio-2A9D8F?logo=firefox&logoColor=white&style=for-the-badge)](https://SEU-SITE.com)
 
 </div>
