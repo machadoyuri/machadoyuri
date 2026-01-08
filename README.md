@@ -1,7 +1,7 @@
 <!-- Banner animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A9D8F,100:264653&height=200&section=header&text=Yuri%20Machado%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
-# 👨‍💻 Desenvolvedor Front-End
+# 👨‍💻 Assistente de suporte, tentando chegar no DEV
 
 Sou um apaixonado por tecnologia, sempre explorando novas ferramentas e criando interfaces modernas.  
 Atualmente focado em **React**, **Tailwind CSS** e **Java** ☕.
